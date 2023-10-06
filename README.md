@@ -18,7 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Swapping of two variables
+#Developer by: GOKHULRAJ V
+#Register number: 23004889
 
+a=int(input())
+b=int(input())
+temp=b
+  b=a
+print("The swapped value is")
+
+```
+## output:
 
 
 ## RESULT:
