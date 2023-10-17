@@ -32,6 +32,7 @@ print("The swapped value is",a,b)
 
 ```
 ## output:
+![Screenshot 2023-10-17 132201](https://github.com/Gokhulraj2005/Swapping-two-values/assets/138849253/f5bdbc7f-632b-4326-ab60-f3d12e0c4725)
 
 
 ## RESULT:
