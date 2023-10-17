@@ -25,9 +25,10 @@ End the program
 
 a=int(input())
 b=int(input())
-temp=b
-  b=a
-print("The swapped value is")
+c=a
+a=b
+b=c
+print("The swapped value is",a,b)
 
 ```
 ## output:
